@@ -1,0 +1,31 @@
+1- Descreva com suas palavras o que é um Banco de dados.
+R: Banco de Dados é uma forma de armazenamento onde é possivel fazer varias formas de manipulações de dados
+
+2- Descreva com suas palavras o que é um SGDB (Sistema Gerenciador de Banco de Dados)
+R: É um software responsável por administrar e organizar um banco de dados
+
+3- Descreva as principais diferenças entre o Banco de dados Relacional e o Banco de dados Não Relacional?
+R: Estrutura: Um banco de dados relacional organiza os dados em tabelas com linhas e colunas, enquanto um banco de dados não relacional utiliza diferentes modelos de armazenamento, como documentos, grafos ou chave-valor.
+
+Flexibilidade: Os bancos de dados relacionais possuem esquemas rígidos, onde a estrutura dos dados é definida antecipadamente. Já os bancos de dados não relacionais são mais flexíveis, permitindo que os dados sejam adicionados ou modificados sem a necessidade de alterar a estrutura.
+
+4- O que é Linguagem de Manipulação de Dados (DML)?
+R: É uma linguagem utilizada para realizar operações de consulta, inserção, atualização e exclusão de dados em um banco de dados.
+
+5- O que é Linguagem de Definição de Dados (DDL)?
+R: É uma linguagem utilizada para definir a estrutura de um banco de dados, incluindo a criação, alteração e exclusão de tabelas, índices, restrições e outros objetos do banco de dados.
+
+6- O que é uma Chave Primária e qual a função dela?
+R: É um atributo em uma tabela de um banco de dados relacional que identifica de forma única cada registro nessa tabela.
+
+7- O que é uma Chave Estrangeira e qual a função dela?
+R: É um atributo em uma tabela de um banco de dados relacional que estabelece uma relação com a chave primária de outra tabela.
+
+8- O que é o Diagrama Entidade Relacionamento (DER) e qual a sua importância?
+R: Reside em sua capacidade de fornecer uma visão clara e concisa do modelo de dados. Ele ajuda a compreender e comunicar a estrutura e as relações entre as entidades do banco de dados, facilitando o processo de design, desenvolvimento e manutenção do sistema.
+
+9- Quais são os 3 tipos de Relacionamento entre Tabelas no Modelo Relacional?
+R: Um para um (1:1); Um para muitos (1:N); Muitos para muitos (N:N)
+
+Qual a importância do Banco de Dados para o desenvolvimento web?
+R: Armazenamento de Dados, Recuperação rápida de informações, Persistência dos Dados, Manipulação e Gerenciamento de Dados
